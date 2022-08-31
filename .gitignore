@@ -1,3 +1,13 @@
+# Adding config.py file.
+config.py
+
+# adding additional files
+API_practice.ipynb
+API_practice.ipynb
+
+#adding .DS_Store
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
